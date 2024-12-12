@@ -27,6 +27,12 @@ Desenvolvido com foco em acessibilidade e organização, o aplicativo oferece um
 - **Front End:** HTML, CSS, JavaScript
 - **Banco de Dados:** SQL para cálculos nutricionais e equivalências alimentares
 
+## 📂 Documentos Importantes do Projeto
+- [Diagramas](https://github.com/LeoRodrigues1/swap-nutri/blob/main/Diagramas) 
+- [Requisitos de Sistemas](https://github.com/LeoRodrigues1/swap-nutri/blob/main/Requisitos%20de%20Sistema)
+- [Requisitos de Usuário](https://github.com/LeoRodrigues1/swap-nutri/blob/main/Requisitos%20de%20Usu%C3%A1rio)
+- [Código do Aplicativo](https://github.com/LeoRodrigues1/swap-nutri/blob/main/C%C3%B3digo)
+
 ## 👩‍💻👨‍💻 Desenvolvedores do Projeto
 - Leonardo Rodrigues de Souza
 - Ana Beatriz Maciel Ferraz 
