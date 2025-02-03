@@ -16,11 +16,11 @@ No projeto **Swap Nutri**, foram desenvolvidos **5 Diagramas de Caso de Uso**, d
 ## 🚀 Localização
 Os diagramas podem ser encontrados na pasta [`/Diagramas/Diagramas de Caso de Uso/`]() dentro do repositório do projeto. Aqui estão os links diretos para cada diagrama:
 
-- [Diagrama Geral]()
-- [Fazer Cadastro]()
-- [Fazer Login]()
-- [Cadastrar Metas Nutricionais]()
-- [Acessar Receitas]()
+- [Diagrama Geral](https://github.com/LeoRodrigues1/swap-nutri/blob/main/Diagramas/Diagrama%20de%20Caso%20de%20Uso%201-%20Geral.md)
+- [Fazer Cadastro](https://github.com/LeoRodrigues1/swap-nutri/blob/main/Diagramas/Diagrama%20de%20Caso%20de%20Uso%202-%20Cadastrar%20Usuário.md)
+- [Fazer Login](https://github.com/LeoRodrigues1/swap-nutri/blob/main/Diagramas/Diagrama%20de%20Caso%20de%20Uso%203-%20Fazer%20Login.md)
+- [Cadastrar Metas Nutricionais](https://github.com/LeoRodrigues1/swap-nutri/blob/main/Diagramas/Diagrama%20de%20Caso%20de%20Uso%204-%20Cadastro%20de%20Metas%20Nutricionais.md)
+- [Acessar Receitas](https://github.com/LeoRodrigues1/swap-nutri/blob/main/Diagramas/Diagrama%20de%20Caso%20de%20Uso%205-%20Cadastro%20de%20Receitas.md)
 
 Cada arquivo contém uma representação visual e um breve resumo da funcionalidade correspondente.
 
